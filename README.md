@@ -2,7 +2,7 @@
 
 Web Game made with Javascript, HTML, CSS, React & Vite.
 
-Random Word Dictionary API - https://random-word-api.herokuapp.com/home
+Random Word Dictionary API - https://random-word-api.herokuapp.com/home.
 
 Users have 60 seconds to type as many words as possible. 
 
