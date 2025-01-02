@@ -1,4 +1,4 @@
-# Chaos Type
+# Chaos Keys
 
 Users have 60 seconds to type as many words as possible. 
 
