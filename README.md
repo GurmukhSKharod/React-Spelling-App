@@ -1,6 +1,6 @@
 # Chaos Keys
 
-Web Game made with Javascript, HTML, CSS, React & Vite.
+Web Game made with Javascript, HTML, CSS, React & Vite
 
 Random Word Dictionary API - https://random-word-api.herokuapp.com/home.
 
