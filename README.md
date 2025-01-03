@@ -2,7 +2,7 @@
 
 Web Game made with Javascript, HTML, CSS, React & Vite.
 
-Application running live via netlify: https://chaoskeys.netlify.app/
+Application running live via Netlify: https://chaoskeys.netlify.app/
 
 Users have 60 seconds to type as many words as possible. 
 
