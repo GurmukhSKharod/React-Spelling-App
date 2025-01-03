@@ -1,6 +1,6 @@
 # Chaos Keys
 
-Web Game made with Javascript, HTML, CSS, React & Vite.
+Web Game made with Javascript, HTML, CSS, React & Vite.   
 ![](https://skillicons.dev/icons?i=js,html,css,react,vite)
 
 
