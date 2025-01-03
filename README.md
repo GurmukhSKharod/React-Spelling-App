@@ -2,7 +2,7 @@
 
 Web Game made with Javascript, HTML, CSS, React & Vite.
 
-Random Word Dictionary API - https://random-word-api.herokuapp.com/home.
+Application running live via netlify: https://chaoskeys.netlify.app/
 
 Users have 60 seconds to type as many words as possible. 
 
@@ -19,4 +19,6 @@ npm run build
 
 ## Preview the production build
 npm run preview
+
+Random Word Dictionary API - https://random-word-api.herokuapp.com/home.
 
