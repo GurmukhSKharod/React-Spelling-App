@@ -12,7 +12,7 @@ This app is both mobile and desktop responsive.
 ### Hackathon & Awards:  
 This app was created at the 2023 Chaos Hacks at SFU: https://systemshacks.com/  
 
-This app acheived the "Chaos Chefs" Award, an award given to the group with the greatest potential.  
+This app achieved the "Chaos Chefs" Award, an award given to the group with the greatest potential.  
 
 This hackathon had over 110 participants, and 34 unique projects.  
 
